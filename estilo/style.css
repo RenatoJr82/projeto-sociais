@@ -30,6 +30,13 @@ main {
     transform: translate(-50%, -50%);
     width: 311px;
     height: 627px;
-    background-color: blue;
     background: url('../imagens/frame-iphone.png') no-repeat;
+}
+
+#tela {
+    position: relative;
+    top: 82px;
+    left: 25px;
+    width: 263px;
+    height: 468px;
 }
