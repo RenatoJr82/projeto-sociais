@@ -35,8 +35,8 @@ main {
 
 iframe#tela {
     position: relative;
-    top: 82px;
-    left: 25px;
     width: 263px;
     height: 468px;
+    top: 82px;
+    left: 25px;
 }
